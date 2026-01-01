@@ -1,3 +1,4 @@
 ﻿# Movie Recommendation System
 
-Work in progress.
+A Java desktop application that recommends movies based on genre.
+Still in early planning.
