@@ -9,5 +9,6 @@ Users can select a genre from a dropdown and view a sorted list of recommendatio
 
 ## Data Structure
 
-The BST is sorted by movie rating in ascending order.
+The application uses a Binary Search Tree where each node holds a Movie object.
+Movies are inserted sorted by rating in ascending order.
 In-order traversal produces a list sorted from lowest to highest rating.
