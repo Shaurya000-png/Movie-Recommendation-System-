@@ -22,7 +22,13 @@ In-order traversal produces a list sorted from lowest to highest rating.
             movierecsys/
                 Movie.java                     - Movie data model
                 MovieNode.java                 - BST node wrapper
-                MovieRecommendationSystem.java - Core BST logic
-                MovieRecommenderUI.java        - Swing GUI
-        bin/                                   - Compiled class files
-        movies.txt                             - Movie dataset
+                MovieRecommendationSystem.java - Core BST logic and file loading
+                MovieRecommenderUI.java        - Swing GUI with table and popup
+        bin/                                   - Compiled class files (Eclipse output)
+        movies.txt                             - Movie dataset (not tracked)
+
+## Movie Data Format
+
+Each line in the dataset file follows this comma-separated format:
+
+    Title, Genre, Rating, Year, Description
