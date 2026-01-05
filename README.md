@@ -20,9 +20,9 @@ In-order traversal produces a list sorted from lowest to highest rating.
     movierecsys/
         src/
             movierecsys/
-                Movie.java
-                MovieNode.java
-                MovieRecommendationSystem.java
-                MovieRecommenderUI.java
-        bin/
-        movies.txt  (dataset file)
+                Movie.java                     - Movie data model
+                MovieNode.java                 - BST node wrapper
+                MovieRecommendationSystem.java - Core BST logic
+                MovieRecommenderUI.java        - Swing GUI
+        bin/                                   - Compiled class files
+        movies.txt                             - Movie dataset
