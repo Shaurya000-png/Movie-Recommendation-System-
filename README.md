@@ -25,4 +25,4 @@ In-order traversal produces a list sorted from lowest to highest rating.
                 MovieRecommendationSystem.java
                 MovieRecommenderUI.java
         bin/
-        movies.txt
+        movies.txt  (dataset file)
