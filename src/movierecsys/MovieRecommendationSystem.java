@@ -14,10 +14,12 @@ public class MovieRecommendationSystem {
     }
 
     private MovieNode insertRec(MovieNode root, Movie movie) {
-        if (root == null) {
-            return new MovieNode(movie);
+        if (root == null) return new MovieNode(movie);
+        if (movie.getRating() < root.movie.getRating()) {
+            root.left = insertRec(root.left, movie);
+        } else {
+            root.right = insertRec(root.right, movie);
         }
-        // ordering logic placeholder
         return root;
     }
 }
