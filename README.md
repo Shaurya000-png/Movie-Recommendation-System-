@@ -35,5 +35,5 @@ Each line in the dataset file follows this comma-separated format:
 
 Example entries:
 
-    Inception, Sci-Fi, 8.8, 2010, A thief who steals corporate secrets through dream-sharing
+    Inception, Sci-Fi, 8.8, 2010, A thief who steals corporate secrets using dream-sharing technology
     The Dark Knight, Action, 9.0, 2008, Batman faces the Joker in a battle for Gotham City
