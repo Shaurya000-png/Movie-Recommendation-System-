@@ -32,3 +32,8 @@ In-order traversal produces a list sorted from lowest to highest rating.
 Each line in the dataset file follows this comma-separated format:
 
     Title, Genre, Rating, Year, Description
+
+Example entries:
+
+    Inception, Sci-Fi, 8.8, 2010, A thief who steals corporate secrets through dream-sharing
+    The Dark Knight, Action, 9.0, 2008, Batman faces the Joker in a battle for Gotham City
