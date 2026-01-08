@@ -41,4 +41,15 @@ Example entries:
 
 ## Supported Genres
 
-10 genres supported: Action, Sci-Fi, Drama, Fantasy, Biography, Thriller, War, Romance, Musical, Comedy
+The following genres are available in the genre dropdown:
+
+- Action
+- Sci-Fi
+- Drama
+- Fantasy
+- Biography
+- Thriller
+- War
+- Romance
+- Musical
+- Comedy
