@@ -35,5 +35,10 @@ Each line in the dataset file follows this comma-separated format:
 
 Example entries:
 
-    Inception, Sci-Fi, 8.8, 2010, A thief who steals corporate secrets using dream-sharing technology
+    Inception, Sci-Fi, 8.8, 2010, A thief who steals corporate secrets through dream-sharing
     The Dark Knight, Action, 9.0, 2008, Batman faces the Joker in a battle for Gotham City
+    Interstellar, Sci-Fi, 8.6, 2014, A team travels through a wormhole for a new home
+
+## Supported Genres
+
+Action, Sci-Fi, Drama, Fantasy, Biography, Thriller, War, Romance, Musical, Comedy
