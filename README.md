@@ -53,3 +53,5 @@ The following genres are available in the genre dropdown:
 - Romance
 - Musical
 - Comedy
+
+All genres are case-insensitive when filtering.
