@@ -54,4 +54,6 @@ The following genres are available in the genre dropdown:
 - Musical
 - Comedy
 
-All genres are case-insensitive when filtering.
+## How to Run
+
+Requirements: JDK 22 or later, Eclipse IDE or any Java IDE.
