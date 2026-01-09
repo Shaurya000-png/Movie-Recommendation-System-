@@ -12,6 +12,7 @@ public class MovieRecommenderUI extends JFrame {
         setSize(800, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
+        setResizable(false);
         JPanel mainPanel = new JPanel(new BorderLayout());
         setContentPane(mainPanel);
     }
