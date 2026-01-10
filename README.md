@@ -73,3 +73,5 @@ The following genres are available in the genre dropdown:
     cd movierecsys
     javac -d bin src/movierecsys/*.java
     java -cp bin movierecsys.MovieRecommenderUI
+
+Note: run commands from the project root directory.
