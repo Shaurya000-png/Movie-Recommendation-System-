@@ -68,4 +68,8 @@ The following genres are available in the genre dropdown:
 3. Place your movie dataset file named movies.txt in the project root.
 4. Run MovieRecommenderUI.java as a Java Application.
 
-Make sure the movies.txt file exists before running or the table will load empty.
+### Running from Command Line
+
+    cd movierecsys
+    javac -d bin src/movierecsys/*.java
+    java -cp bin movierecsys.MovieRecommenderUI
