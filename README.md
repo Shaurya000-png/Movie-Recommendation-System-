@@ -67,3 +67,5 @@ The following genres are available in the genre dropdown:
 2. Open the project in Eclipse via File > Open Projects from File System.
 3. Place your movie dataset file named movies.txt in the project root.
 4. Run MovieRecommenderUI.java as a Java Application.
+
+Make sure the movies.txt file exists before running or the table will load empty.
