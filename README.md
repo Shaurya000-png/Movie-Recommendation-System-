@@ -76,6 +76,6 @@ The following genres are available in the genre dropdown:
 
 ## Features
 
-- Genre-based movie filtering using a BST
+- Genre-based movie filtering powered by a BST
 - Movies sorted by rating in ascending order
 - Secondary sort by release year when ratings are equal
