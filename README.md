@@ -79,5 +79,5 @@ The following genres are available in the genre dropdown:
 - Genre-based movie filtering using a BST
 - Movies sorted by rating in ascending order
 - Secondary sort by release year when ratings are equal
-- Displays up to 10 recommendations per genre
+- Displays up to 10 movie recommendations per genre selection
 - Click any row in the table to view the full movie description
