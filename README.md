@@ -80,4 +80,12 @@ The following genres are available in the genre dropdown:
 - Movies sorted by rating in ascending order
 - Secondary sort by release year when ratings are equal
 - Displays up to 10 recommendations per genre
-- Click any row in the results table to view the full movie description in a popup
+- Click any row in the table to view the full movie description
+- Lightweight with no external library dependencies
+
+## Technologies Used
+
+- Java SE 22
+- Java Swing (GUI)
+- Binary Search Tree (custom implementation)
+- File I/O using BufferedReader
