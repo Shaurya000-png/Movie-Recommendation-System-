@@ -14,7 +14,6 @@ public class MovieRecommenderUI extends JFrame {
         setLocationRelativeTo(null);
         JPanel mainPanel = new JPanel(new BorderLayout());
         setContentPane(mainPanel);
-        mainPanel.setLayout(new BorderLayout());
     }
 
     public static void main(String[] args) {
