@@ -96,3 +96,7 @@ The following genres are available in the genre dropdown:
 - The movie dataset (movies.txt) is not included in this repository.
 - Create your own file following the format described above.
 - The application reads the dataset from the project root directory by default.
+
+## Author
+
+Built as a Data Structures and Algorithms project in January 2026.
