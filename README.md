@@ -99,4 +99,4 @@ The following genres are available in the genre dropdown:
 
 ## Author
 
-Built as a Data Structures and Algorithms project in January 2026.
+Developed as a Data Structures and Algorithms project in January 2026.
