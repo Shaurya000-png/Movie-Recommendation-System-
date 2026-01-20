@@ -5,7 +5,7 @@ A Java desktop application that recommends movies based on genre selection.
 ## Overview
 
 This project uses a Binary Search Tree (BST) to store and sort movies by rating.
-Users can select a genre from a dropdown and view a sorted list of recommendations.
+Users can select a genre from a dropdown and view a sorted, filtered list of movie recommendations.
 The application is built entirely with Java standard library - no external dependencies.
 
 ## Data Structure
