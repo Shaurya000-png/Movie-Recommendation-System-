@@ -81,7 +81,7 @@ The following genres are available in the genre dropdown:
 - Secondary sort by release year when ratings are equal
 - Displays up to 10 recommendations per genre
 - Click any row in the table to view the full movie description
-- Lightweight with no external library dependencies
+- Pure Java implementation, no external library dependencies
 
 ## Technologies Used
 
