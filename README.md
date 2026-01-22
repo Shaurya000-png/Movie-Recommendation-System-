@@ -74,7 +74,7 @@ The following genres are available in the genre dropdown:
     javac -d bin src/movierecsys/*.java
     java -cp bin movierecsys.MovieRecommenderUI
 
-## Key Features
+## Features
 
 - Genre-based movie filtering using a BST
 - Movies sorted by rating in ascending order
