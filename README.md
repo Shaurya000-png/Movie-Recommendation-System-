@@ -97,6 +97,6 @@ The following genres are available in the genre dropdown:
 - Create your own file following the format described above.
 - The application reads the dataset from the project root directory by default.
 
-## Author
+## About
 
 Built as a Data Structures and Algorithms project in January 2026.
