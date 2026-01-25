@@ -54,7 +54,7 @@ The following genres are available in the genre dropdown:
 - Musical
 - Comedy
 
-## Setup and Running
+## How to Run
 
 ### Prerequisites
 
