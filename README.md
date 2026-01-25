@@ -85,7 +85,7 @@ The following genres are available in the genre dropdown:
 
 ## Technologies Used
 
-- Java SE 22 / JDK 22
+- Java SE 22
 - Java Swing (GUI)
 - Binary Search Tree (custom implementation)
 - File I/O using BufferedReader
