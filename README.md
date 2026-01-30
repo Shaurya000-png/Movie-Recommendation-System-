@@ -1,6 +1,6 @@
 ﻿# Movie Recommendation System
 
-A Java desktop application that recommends movies based on genre selection.
+A Java Swing desktop application that recommends movies based on genre selection using a Binary Search Tree.
 
 ## Overview
 
